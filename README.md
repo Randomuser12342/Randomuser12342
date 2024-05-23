@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Snail IDE
 - 📫 How to reach me: my scratch account: dogstudios55
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,scratch,snail-ide)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,scratch)
 <!---
 Randomuser12342/Randomuser12342 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
